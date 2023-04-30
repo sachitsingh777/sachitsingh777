@@ -16,8 +16,8 @@
 - 🌱 I’m currently learning Full Stack Web dvelopment<br/>
 - 👯 I’m looking to collaborate as software developer - related to react.js<br/>
 - 💬 Ask me about react.js, javscript,express js, Node js , TypeSript<br/>
-- 📫 How to reach me: sachitsinghbais777@gmail.com<br/>
-- 🫠 know more about me:-https://sachitsingh777.github.io/
+- 📫 How to reach me **sachitsinghbais777@gmail.com **
+- 🫠 know more about me **https://sachitsingh777.github.io/**
 
  
  <div align="center">
