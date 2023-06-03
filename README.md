@@ -1,11 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Sacchitanand Singh</h1>
-<h3>Highly motivated and adaptable aspiring full stack developer with a passion for creating innovative solutions, combining expertise in front-end and back-end development to deliver seamless user experiences and optimize overall functionality.</h3>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
 </div>
  <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=108FD4&width=435&lines=Full+Stack+Developer;Mern+Developer" alt="Typing SVG" /></a>
+  <h3>Highly motivated and adaptable aspiring full stack developer with a passion for creating innovative solutions, combining expertise in front-end and back-end development to deliver seamless user experiences and optimize overall functionality.</h3>
 </div>
 <div align="center">
 <p align="center"> <img src="https://github.com/sourabmaity/sourabmaity/raw/main/assets/gif.gif" alt="sachitsingh777" width="600px" /> </p>
