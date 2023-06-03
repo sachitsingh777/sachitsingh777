@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sacchitanand Singh</h1>
+<h3>Highly motivated and adaptable aspiring full stack developer with a passion for creating innovative solutions, combining expertise in front-end and back-end development to deliver seamless user experiences and optimize overall functionality.</h3>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
 </div>
